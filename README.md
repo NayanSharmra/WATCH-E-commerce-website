@@ -91,7 +91,7 @@ Feel free to contribute by creating issues or submitting pull requests.
 ## License
 This project is licensed under the MIT License.
 
-Some Screenshots for the project:
+## Some Screenshots for the project:
 
 ![WhatsApp Image 2025-01-20 at 10 24 32 PM](https://github.com/user-attachments/assets/114d2f3d-884d-4d4a-8608-4690c0d6b507)
 
